@@ -1,0 +1,21 @@
+{
+  "name": "react-hook-form-usewatch-ts",
+  "version": "1.0.0",
+  "description": "Demo repo for an issue discovered in react-hook-form useWatch TS typings.",
+  "scripts": {
+    "start": "parcel serve index.html",
+    "compile": "tsc"
+  },
+  "author": "Alex Brombal",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "parcel": "^2.7.0",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.34.2",
+    "typescript": "^4.7.4"
+  }
+}
